@@ -18,6 +18,6 @@ The project was built in Unity version 2018.3.14f1. The 'project' directory cont
 
 ## Game and report
 
-The game is currently available at: http://homepages.inf.ed.ac.uk/s1552344/game/
+The game is currently available at: http://homepages.inf.ed.ac.uk/s1552344/PuppEzy
 
 HonsProjReport.pdf contains my bachelor's degree report on the game design and development.
