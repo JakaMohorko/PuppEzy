@@ -1,0 +1,17 @@
+# site.pp
+    # example
+    file { '/data/log.txt':
+    	ensure => present,
+    	owner => 'root'
+    }
+    
+    user { 'guest':
+    	ensure => present,
+    	uid => 3
+    }
+    
+    #to be filled in by user
+    file { '/data/data.txt':
+    	ensure => present,
+    	owner => 'guest'
+    }
